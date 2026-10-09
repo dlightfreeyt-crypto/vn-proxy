@@ -1,0 +1,2 @@
+// Set these from Supabase project settings. Never use a service_role/secret key here.
+window.PROXY_CONFIG={SUPABASE_URL:"PASTE_SUPABASE_PROJECT_URL_HERE",SUPABASE_ANON_KEY:"PASTE_SUPABASE_PUBLISHABLE_OR_ANON_KEY_HERE"};
